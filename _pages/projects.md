@@ -5,7 +5,7 @@ author: rony
 post_date: 2015-10-09 01:58:26
 post_excerpt: ""
 layout: page
-permalink: http://www.ronyjacob.net/projects/
+permalink: http://budhagod.github.io/2014/projects/
 published: true
 ---
 Here are the list of my hobby side projects.
