@@ -16,7 +16,7 @@ There is an information asymmetry between Silicon Valley and the rest of the wor
 
 Ben Thompson author of the blog Stratechery exactly pinpointed this:
 
->There is an informational asymmetry between the U.S. and Asia: the latter learn from the former, but the favor is not returned, due to some combination of unawareness, laziness, and arrogance. None are flattering.
+ >There is an informational asymmetry between the U.S. and Asia: the latter learn from the former, but the favor is not returned, due   to some combination of unawareness, laziness, and arrogance. None are flattering.
 
 And I believe that this is not unique to foreigners, but Indians also lack the knowledge of what is really happening in India. And there are few tech columnists who do that in a meaning full way. I wish to fill that information gap.
 
