@@ -6,7 +6,7 @@ post_date: 2015-04-07 17:11:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ronyjacob.in/2015/sexy-companion-product-strategy/
+  http://ronyjacob.in/2015/sexy-companion-product-strategy/
 published: true
 ---
 &nbsp;
