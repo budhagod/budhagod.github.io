@@ -1,6 +1,6 @@
 ---
 title: What I prefer to see in App developers
-layout:post
+layout: post
 
 
 ---
