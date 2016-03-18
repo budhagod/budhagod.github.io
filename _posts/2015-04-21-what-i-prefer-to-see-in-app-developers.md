@@ -1,13 +1,7 @@
 ---
-ID: 16
 post_title: What I prefer to see in App developers
-author: rony
-post_date: 2015-04-21 17:52:00
-post_excerpt: ""
-layout: post
-permalink: >
-  http://www.ronyjacob.net/2015/what-i-prefer-to-see-in-app-developers/
-published: true
+
+
 ---
 <span style="font-family: inherit;">My last post was about why I buy apps. So I think, it is better to  to explain about what I prefer to see in App developers.</span>
 
