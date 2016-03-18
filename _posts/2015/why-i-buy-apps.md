@@ -6,7 +6,7 @@ post_date: 2015-04-19 17:49:50
 post_excerpt: ""
 layout: post
 permalink: >
-  /2015/why-i-buy-apps/
+  /why-i-buy-apps
 published: true
 ---
 <span style="font-family: inherit;">Last week I had a conversation with one of my coworker and he was implying that his phone was not loud enough. He is using a Micromax Canvas Gold I guess, not too sure about it. His way around ‘this shortcoming’ was to install poweramp app, which amplifies the sound.</span>
