@@ -1,6 +1,6 @@
 ---
 ID: 14
-post_title: Why I buy apps
+post_title: Why-I-buy-apps
 author: rony
 post_date: 2015-04-19 17:49:50
 post_excerpt: ""
