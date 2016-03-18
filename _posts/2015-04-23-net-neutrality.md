@@ -1,13 +1,8 @@
 ---
 ID: 18
-post_title: Net neutrality
-author: rony
-post_date: 2015-04-23 17:53:05
-post_excerpt: ""
+title: Net neutrality
 layout: post
-permalink: >
-  http://www.ronyjacob.net/2015/net-neutrality/
-published: true
+
 ---
 <span style="font-family: inherit;">I first heard about net neutrality in 2014, in the midst of a Netflix controversy. At that time I did not have any idea what it was. So I did some research and found what it was and I was able to distinguish between fast lane and slow lane. I am always a supporter of Net neutrality and I believe that it is the first and foremost rule of Internet, the one thing that made Internet a thriving medium for innovation.</span>
 
