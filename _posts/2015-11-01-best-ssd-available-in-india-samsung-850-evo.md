@@ -1,15 +1,8 @@
 ---
-ID: 156
-post_title: 'Best SSD available in India- Samsung 850 EVO'
-author: rony
-post_date: 2015-11-01 05:55:47
-post_excerpt: ""
+title: 'Best SSD available in India- Samsung 850 EVO'
+
 layout: post
-permalink: >
-  http://www.ronyjacob.net/2015/best-ssd-available-in-india-samsung-850-evo/
-published: true
-flavour_num_words:
-  - "1481"
+
 ---
 <a href="http://www.ronyjacob.net/wp-content/uploads/2015/11/Samsung-850-EVO-SSD1.jpg"><img class="alignnone wp-image-164" src="http://www.ronyjacob.net/wp-content/uploads/2015/11/Samsung-850-EVO-SSD1-1024x620.jpg" alt="Samsung EVO 850 SSD" width="721" height="437" /></a>
 
