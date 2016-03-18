@@ -1,17 +1,13 @@
 ---
-ID: 24
-post_title: >
+
+title: >
   Facebook has scrapped its secret plan to
   build a $500 million satellite to
   provide cheap internet in the developing
   world
-author: rony
-post_date: 2015-06-09 17:58:17
-post_excerpt: ""
+
 layout: post
-permalink: >
-  http://www.ronyjacob.net/2015/facebook-has-scrapped-its-secret-plan-to-build-a-500-million-satellite-to-provide-cheap-internet-in-the-developing-world/
-published: true
+
 ---
 <span style="font-family: inherit;">Due to recent back sashes happened to them over Internet.org, I don’t believe they are as committed to subsidized internet service as earlier.  Using our own satellites is very high capital intensive program and there are a lot of technical challenges to solve . Also I am sure that $500 million is only the initial investment amount needed and they need more money in the long run.</span>
 
