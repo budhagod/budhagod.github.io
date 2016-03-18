@@ -6,7 +6,7 @@ post_date: 2016-02-04 13:46:13
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ronyjacob.net/2016/a-new-beginning/
+  2016/a-new-beginning/
 published: true
 ---
 It has been a while I have written something here. Life changed a lot after that small post published here.  I really thanks all of you who spend their time to stop here and read whatever I wrote here. Thank you guys!
