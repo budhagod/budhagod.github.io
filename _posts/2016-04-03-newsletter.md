@@ -1,9 +1,6 @@
 ---
-
 title: Newsletter
-
 layout: post
-
 ----
 
 Hello every body welcome to my brand new Newsletter. I have been  thinking about making a newsletter or somethings for the past couple of months.Something
