@@ -1,5 +1,6 @@
 ---
-title: 'Newsletter'
+
+title: Newsletter
 
 layout: post
 
